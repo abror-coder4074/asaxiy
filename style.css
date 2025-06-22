@@ -3313,6 +3313,96 @@ body{
         margin-left: 20px;
     }
 }
+    @media screen and (max-width:400px) {
+    .cardlara{
+        width: 170px;
+    }
+    .karfao img{
+        width: 170px;
+    }
+    .napislfa{
+    width: 170px;
+    font-size: 10px;
+    padding: 10px 10px;
+}
+    .wgw{
+        font-size: 15px;
+    }
+    .narxi{
+    border: 1px solid orange;
+    padding: 5px 0;
+    width: 160px;
+    border-radius: 10px;
+    margin-left: 8px;
+    }
+    .narxi h3{
+        font-size: 13px;
+    }
+    .kaod{
+    width: 120px;
+    padding: 10px 10px;
+    background-color: blue;
+    border-radius: 10px;
+    margin: 10px 7px;
+    transition: transform 0.3s ease;
+    }
+    .diqfq{
+    width: 50px;
+    background-color: aquamarine;
+    border-radius: 10px;
+}
+    .diqfq i{
+        padding-left: 5px;
+    }
+    .applwe{
+        margin-left: 20px;
+    }
+}
+    @media screen and (max-width:386px) {
+    .cardlara{
+        width: 160px;
+    }
+    .karfao img{
+        width: 160px;
+    }
+    .napislfa{
+    width: 160px;
+    font-size: 10px;
+    padding: 10px 10px;
+}
+    .wgw{
+        font-size: 15px;
+    }
+    .narxi{
+    border: 1px solid orange;
+    padding: 5px 0;
+    width: 160px;
+    border-radius: 10px;
+    margin-left: 8px;
+    }
+    .narxi h3{
+        font-size: 13px;
+    }
+    .kaod{
+    width: 110px;
+    padding: 10px 10px;
+    background-color: blue;
+    border-radius: 10px;
+    margin: 10px 7px;
+    transition: transform 0.3s ease;
+    }
+    .diqfq{
+    width: 50px;
+    background-color: aquamarine;
+    border-radius: 10px;
+}
+    .diqfq i{
+        padding-left: 5px;
+    }
+    .applwe{
+        margin-left: 20px;
+    }
+}
 .sectionimg{
     background-color: #ffffffac;
     width: 1520px;
